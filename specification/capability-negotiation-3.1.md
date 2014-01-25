@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # IRCv3 Client Capability Negotiation
 
 Copyright (c) 2004-2012 Kevin L. Mitchell <klmitch@mit.edu>.

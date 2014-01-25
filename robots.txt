@@ -1,0 +1,4 @@
+# robotstxt.org
+User-agent: *
+Disallow:
+Sitemap: http://ircv3.org/sitemap.xml

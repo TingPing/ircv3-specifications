@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 server-time client capability specification
 ===========================================
 

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 extended-join client capability specification
 ---------------------------------------------
 

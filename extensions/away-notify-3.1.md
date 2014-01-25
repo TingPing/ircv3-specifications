@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 away-notify client capability specification
 ----------------------------------------------
 

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # SASL authentication
 
 This document describes the client protocol for SASL authentication, as

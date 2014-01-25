@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 account-notify client capability specification
 ----------------------------------------------
 
@@ -22,7 +26,7 @@ This message represents that the user identified by nick!user@host has
 logged into a new account.  The last parameter is the display name of
 that account.
 
-    :nick!user@host ACCOUNT *
+    :nick!user@host ACCOUNT \*
 
 This message represents that the user identified by nick!user@host has
 logged out of their account.  As the last parameter is an asterisk, this

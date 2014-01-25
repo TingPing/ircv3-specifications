@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # tls Client Capability Extension
 
 Copyright (c) 2012 William Pitcock <nenolod@atheme.org>.

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Metadata Specification
 
 Copyright (c) 2012 Kiyoshi Aman <kiyoshi.aman@gmail.com>.

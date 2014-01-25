@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # MONITOR - Protocol for notification of when clients become online/offline
 

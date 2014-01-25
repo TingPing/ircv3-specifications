@@ -1,4 +1,6 @@
-%pragma page-title("IRCv3 Working Group");
+---
+layout: default
+---
 
 # Atheme.org IRCv3 Working Group
 

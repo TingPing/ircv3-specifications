@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # IRC `BATCH` extension
 
 Copyright (c) 2012 William Pitcock <nenolod@dereferenced.org>.

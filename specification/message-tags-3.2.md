@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 IRCv3.2 Message Tags
 ====================
 

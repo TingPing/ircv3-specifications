@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Message Intents framework
 
 Copyright (c) 2012 William Pitcock <nenolod@dereferenced.org>.

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 multi-prefix Client Capability Extension
 ----------------------------------------
 
